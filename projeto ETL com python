@@ -20,7 +20,7 @@ print(json.dumps(users, indent=2))
 
 - Transform:
 !pip install openai 
-openai_api_key = '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'
+openai_api_key = 'keytest'
 
 import openai
 
